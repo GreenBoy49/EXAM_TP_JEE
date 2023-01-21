@@ -48,3 +48,16 @@ KEYCLOAK USER
 
 
 ![208912882-a0ee26cd-0395-4391-b240-9133bc6378a2](https://user-images.githubusercontent.com/79233425/213864464-5d5c99f2-ffdc-42d6-9c53-2c620e2b5886.png)
+
+
+KEYCLOAK ROLES
+
+
+![208912882-a0ee26cd-0395-4391-b240-9133bc6378a2](https://user-images.githubusercontent.com/79233425/213864625-fb3e9475-afd5-497f-b328-5525b38f9833.png)
+
+
+KEYCLOAK AUTH TEST POSTMAN
+
+
+![208912882-a0ee26cd-0395-4391-b240-9133bc6378a2](https://user-images.githubusercontent.com/79233425/213864715-1590c29d-28f0-4b1c-b7cb-5d2b2bf7e8d5.png)
+
