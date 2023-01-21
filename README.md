@@ -29,4 +29,22 @@ BILLING SECTION
 ![208910822-0bd431ef-dd20-4a24-a55d-ff6a58f92314](https://user-images.githubusercontent.com/79233425/213863718-fcbaf291-119e-4d98-ac94-fb50769e85e4.png)
 
 
+DETAILS
 
+![deta](https://user-images.githubusercontent.com/79233425/213864044-465f71ae-cff6-4b05-9fdc-2cf64da59177.png)
+
+
+KEYCLOAK REALM
+
+
+![208912882-a0ee26cd-0395-4391-b240-9133bc6378a2](https://user-images.githubusercontent.com/79233425/213864137-2e4d1b49-a3f7-4695-90bf-4a7295b9aca4.png)
+
+KEYCLOAK CLIENT
+
+![208912882-a0ee26cd-0395-4391-b240-9133bc6378a2](https://user-images.githubusercontent.com/79233425/213864171-7f433ca8-4bd1-4aae-aab0-2f2acd30eaaf.png)
+
+
+KEYCLOAK USER
+
+
+![208912882-a0ee26cd-0395-4391-b240-9133bc6378a2](https://user-images.githubusercontent.com/79233425/213864464-5d5c99f2-ffdc-42d6-9c53-2c620e2b5886.png)
